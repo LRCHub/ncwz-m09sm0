@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Astronomy",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-11T16:07:07.198789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "False Astronomy",
+      "artist": "Mister Lies",
+      "has_synced": false,
+      "path": "select/01_False_Astronomy_Mister_Lies.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/02_Astronomy_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Astronomy (8th Light)",
+      "artist": "Black Star",
+      "has_synced": true,
+      "path": "select/03_Astronomy_(8th_Light)_Black_Star.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Astronomy Domine",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/04_Astronomy_Domine_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Astronomy Domine",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/05_Astronomy_Domine_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/06_Astronomy_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/07_Astronomy_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Speak Astronomy",
+      "artist": "Jinjer",
+      "has_synced": true,
+      "path": "select/08_I_Speak_Astronomy_Jinjer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Astronomy (2005 Digital Remaster)",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/09_Astronomy_(2005_Digital_Remaster)_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Jethro Tull",
+      "has_synced": false,
+      "path": "select/10_Astronomy_Jethro_Tull.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Astronomy Domine",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/11_Astronomy_Domine_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/12_Astronomy_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Astronomy (8th Light)",
+      "artist": "Mos Def And Talib Kweli",
+      "has_synced": true,
+      "path": "select/13_Astronomy_(8th_Light)_Mos_Def_And_Talib_Kweli.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Blue Öyster Cult",
+      "has_synced": true,
+      "path": "select/14_Astronomy_Blue_Öyster_Cult.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Astronomy",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/15_Astronomy_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Astronomy Domine",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/16_Astronomy_Domine_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Astronomy Domine - Live in Miami 1994",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/17_Astronomy_Domine_-_Live_in_Miami_1994_Pink_Floyd.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Astronomy",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Astronomy_Empty_old_City.txt"
+    }
+  ]
+}
